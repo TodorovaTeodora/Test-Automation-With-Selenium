@@ -14,7 +14,7 @@ import static org.junit.Assert.assertTrue;
 
 import java.util.Set;
 
-public class FramesTests {
+public class FramesTest {
 
     WebDriver driver;
     WebElement element;
